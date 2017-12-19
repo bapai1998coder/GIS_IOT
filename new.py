@@ -1,2 +1,0 @@
-print("Blank")
-print("cs")
